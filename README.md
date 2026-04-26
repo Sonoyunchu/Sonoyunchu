@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Sonoyunchu/Sonoyunchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+✦ selin ✦
+```
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+```ts
+const selin = {
+  learning : ["React", "Node.js", "TypeScript"],
+  interests: ["ui/ux", "open source", "caffeine"],
+  mood     : "always debugging something 🫠"
+}
+```
+
+---
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Sonoyunchu&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
+
+</div>
